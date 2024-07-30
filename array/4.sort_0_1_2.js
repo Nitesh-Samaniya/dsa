@@ -36,4 +36,4 @@ function sort012(arr, N){
         return arr;
 }
 
-console.log(sort012(arr, N))
+console.log(sort012(arr, N));
