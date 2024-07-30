@@ -1,5 +1,3 @@
-const arr = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3];
-const left = arr.slice(0,5);
-const right = arr.slice(5)
+const arr = [1, 2, 3, 4, 5];
+// Output: [5, 1, 2, 3, 4]
 
-console.log(left, right, arr);
